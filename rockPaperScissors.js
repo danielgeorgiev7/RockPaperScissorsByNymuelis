@@ -40,4 +40,4 @@ else {
     console.log("This game was a draw!")
 }
 }
-rockPaperScissors("sdar");
+rockPaperScissors("rock");
